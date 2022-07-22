@@ -4,6 +4,10 @@
 
 ### 二. 合作社区
 
+- 链眼社区：http://www.chaineye.info/
+- 问我社区：http://www.wenwoha.com/
+- chainflag: https://chainflag.org/
+
 ### 三. 分享记录
 
 #### 第一次分享
