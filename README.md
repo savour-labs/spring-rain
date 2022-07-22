@@ -4,10 +4,21 @@
 
 ## 二. 分享记录
 
-|   分享标号   |                 分享主题                                        |   分享人     |       一句话简介                |   社交账号        |
-|:-----------:|:-------------------------------------------------------------:|:-----------:|:------------------------------:|:--------------:|
-|  0x01       |   [基于 Cosmos 开发自己的公链]()                                 |    seek     |      SavorDao 发起人之一         |    @seek_web3  |
-|  0x02       |   [深入理解 Layer2 之 optimistim]()                             |    seek     |      SavorDao 发起人之一         |    @seek_web3  |
+### 第一次分享
 
+- 编号：0x01
+- 分享主题：基于 Cosmos 开发自己的公链]() 
+- 分享人：seek
+- 一句话简介：SavorDao 发起人之一    
+- 社交账号：@seek_web3
+- 其他信息
 
+### 第二次分享
+
+- 编号：0x02
+- 分享主题：[深入理解 Layer2 之 optimistim](https://github.com/SavourDao/spring-rain/blob/main/src/optimistim.md)
+- 分享人：seek
+- 一句话简介：SavorDao 发起人之一    
+- 社交账号： @seek_web3 
+- 其他信息
 
